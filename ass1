@@ -1,0 +1,8 @@
+n=int(input('enter number:'))
+count=0
+while i>0:
+   count+=1
+   n=n//10
+print('no of digits in given number:',count)   
+   
+   
